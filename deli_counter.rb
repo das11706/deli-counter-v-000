@@ -45,4 +45,3 @@ def now_serving(deli)
     puts "Currently serving " + other_deli.shift + "."
   end
 end
-
